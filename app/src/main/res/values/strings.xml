@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChinaMap</string>
+    <string name="txt_region">地区</string>
+    <string name="txt_confirmed_count">确诊</string>
+    <string name="txt_cured_count">治愈</string>
+    <string name="txt_dead_count">死亡</string>
+</resources>
